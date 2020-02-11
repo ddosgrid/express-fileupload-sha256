@@ -1,5 +1,5 @@
 {
-  "name": "express-fileupload",
+  "name": "express-fileupload-sha256",
   "version": "1.1.6",
   "author": "Richard Girges <richardgirges@gmail.com>",
   "description": "Simple express file upload middleware that wraps around Busboy",
